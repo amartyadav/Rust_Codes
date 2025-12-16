@@ -22,7 +22,7 @@ Examples include:
 ---
 
 ## 🚫 Important Note
-No AI tools (LLMs, autocomplete assistants, or code generators) were used in the creation of these projects.  
+No AI tools (LLMs, autocomplete assistants, or code generators) were used in the creation of these projects. Copilot was used to write this well-formatted README.
 I am deliberately learning Rust **the old-school way** — by reading, understanding, and writing code myself, guided by the book and traditional CS learning methods.
 
 ---
