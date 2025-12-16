@@ -1,0 +1,47 @@
+# -------------------------
+# Rust / Cargo
+# -------------------------
+# Ignore compiled files and build artifacts
+target/
+
+# Ignore Cargo lock files for libraries (optional)
+# If your projects are binaries, you may want to keep Cargo.lock
+**/Cargo.lock
+
+# -------------------------
+# OS-specific junk
+# -------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# -------------------------
+# IDE / Editor files
+# -------------------------
+# VS Code
+.vscode/
+
+# JetBrains IDEs (CLion, IntelliJ, etc.)
+.idea/
+
+# Other editor swap/backup files
+*.swp
+*.swo
+*.bak
+
+# -------------------------
+# Git / Misc
+# -------------------------
+# Ignore logs
+*.log
+
+# Ignore coverage/debug/test outputs
+coverage/
+debug/
