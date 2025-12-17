@@ -5,14 +5,14 @@ Most of the projects here are based on exercises and examples from the book **Pr
 
 ---
 
-## 📚 Purpose
+## Purpose
 - To practice and understand Rust fundamentals, idioms, and advanced features.
 - To document my progress as I work through the book and beyond.
 - To serve as a personal portfolio of Rust code written purely for **learning purposes**.
 
 ---
 
-## ⚙️ Contents
+## Contents
 Each subfolder in this repository represents a separate Rust project.  
 Examples include:
 - Book exercises (`actix-gcd`, `gcd_simple`, etc.)
@@ -21,20 +21,20 @@ Examples include:
 
 ---
 
-## 🚫 Important Note
-No AI tools (LLMs, autocomplete assistants, or code generators) were used in the creation of these projects. Copilot was used to write this well-formatted README.
-I am deliberately learning Rust **the old-school way** — by reading, understanding, and writing code myself, guided by the book and traditional CS learning methods.
+## Important Note
+No AI tools (LLMs, autocomplete assistants, or code generators) were used in the creation of these projects. **Copilot was used to write this well-formatted README**.
+I am deliberately learning Rust **the old-school way** — a book and coding by myself.
 
 ---
 
-## 🛠️ Disclaimer
+## Disclaimer
 - This repository is **not production code**.  
 - It exists solely for educational purposes and personal growth.  
 - Expect incomplete features, experimental ideas, and code written for practice rather than deployment.
 
 ---
 
-## 🌟 Portfolio Value
+## Portfolio Value
 While not production-ready, this repo reflects:
 - My dedication to learning Rust deeply.
 - My ability to work through complex programming concepts without shortcuts.
@@ -42,5 +42,5 @@ While not production-ready, this repo reflects:
 
 ---
 
-## 📖 Reference
+## Reference
 - [Programming Rust, 2nd Edition (O'Reilly)](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) — the primary resource guiding these projects.
